@@ -32,7 +32,7 @@ This repository supports a data driven analysis of measles outbreak risk in Texa
 - File used: `2023–2024_School_Vaccination_Coverage_Levels_Kindergarten.xlsx`
 
 #### County Population
-- **Probable Source**: Texas Legislative Council (2020 Census Redistricting Data)  
+- **Source**: Texas Legislative Council (2020 Census Redistricting Data)  
 - **Link**: [Texas Capitol Data Portal](https://data.capitol.texas.gov/dataset/vtds)  
 - File used: `Counties_Pop.txt`  
 - Contains population data per county.
@@ -49,6 +49,8 @@ python download_weekly_data.py --start_year 2019 --start_month 1 --start_day 7
 --output_folder RawData/weekly_flows --county
 ```
 
+#### Geometries Data
+- **County Geometries**: TIGER/Line shapefiles via the `tigris` R package
 
 ## Model Description
 
