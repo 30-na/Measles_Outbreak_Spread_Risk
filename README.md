@@ -10,7 +10,6 @@ The project provides a county level modeling framework for estimating the risk a
 
 **Authors:** Sina Mokhtar, Abhishek Pandey, Chad R. Wells, Martial L. Ndeffo-Mbah
 
-**Repository:** [https://github.com/30-na/Measles_Outbreak_Spread_Risk](https://github.com/30-na/Measles_Outbreak_Spread_Risk)
 
 ## Overview
 
